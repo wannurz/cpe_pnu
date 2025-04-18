@@ -36,7 +36,7 @@ enum cpeSpin {
 /**
 * Custom motor control blocks for CPE_PNU
 */
-//% block="CPE PNU" weight=100 color=#0fbc11 icon=""
+//% block="CPE PNU" weight=100 color=#FFA500 icon="\uf085"
 namespace cpe_pnu {
 
     /**
